@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.clear{
+    clear: both;
+}
+.navbar{
+    background-color: black;
+    opacity: 70%;
+}
+.navbar a{
+    justify-content: center;
+    text-align: center;
+    line-height: 47px;
+    padding-left: 30px;
+text-decoration: none;
+color: rgb(163, 163, 163);
+font-size: 13px;
+}
+.navbar a:hover{
+    color: whitesmoke;
+}
+.shopeasy p{
+    font-size: 16px;
+    background-color: rgb(126, 21, 21);
+    color: white;
+    text-align: center;
+    line-height: 39px;
+}
+.margin{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shopeasy a{
+    text-decoration: none;
+color: white;
+font-size: 16px;
+}
+.shopeasy a:hover{
+    text-decoration: underline;
+}
+.iphone13{  
+    padding-top: 20px;
+    font-size: 45px;
+    text-align: center;
+}
+.iphone13 h2{
+    font-weight: 500;
+}
+.iphone13 h4{
+    
+    font-size: 30px;
+    font-weight: 350;
+}
+.iphone13 a{
+    text-decoration: none;
+    color: #0367cc;
+    font-size: 21px;
+}
+.iphone13 a:hover{
+    text-decoration: underline;
+}
+.iphone13pink{
+    background-color: #35283c;
+      padding-top: 20px;
+    text-align: center;
+}
+.iphone13pink h2{
+    background-color: #35283c;
+    color: white;
+    font-size:55px;
+    font-weight: 500;
+}
+.iphone13pink h3{  
+    background-color: #35283c;
+        color:#fec2eb;
+    font-weight: 450;
+    font-size:29px ;
+}
+.iphone13pink a{
+    background-color: #35283c;
+    text-decoration: none;
+    color: #0367cc;
+    font-size: 21px;
+}
+.iphone13pink a:hover{
+    text-decoration: underline;
+}
+.appletv{
+    margin-top: 20px;
+}
+.macandpod .mac{
+    margin-top:  20px;
+    margin-left: 10px;
+    float: left;
+    width: 49%;
+   background-color: #fbfbfd;
+}
+.macandpod .mac h2{
+   font-size: 40px;
+   padding-top: 30px;
+    text-align: center;
+}
+.macandpod .mac h3{
+    color: rgb(65, 63, 63);
+    font-size: 25px;
+    font-weight: 400;
+     text-align: center;
+ }
+ .macandpod .mac a{
+    text-align: center;
+     text-decoration: none;
+    color: #0367cc;
+    font-size: 18px; 
+    font-weight: 400;  
+    justify-content: center;
+ }
+ .macandpod .mac a:hover{
+     text-decoration: underline;
+ }
+ .macandpod .mac .aone{
+    text-align: center;    
+ }
+ .macandpod .mac .atwo{
+    text-align: center;    
+ }
+ .macandpod .mac p{
+    display: inline;  
+ }
+ .macandpod .pod {
+    margin-top: 20px;
+     margin-right: 10px;
+    height: 30%;
+    background-color: whitesmoke;
+     width: 49%;
+     float: right;
+ }
+ .macandpod .pod h2{
+    font-size: 40px;
+    padding-top: 30px;
+     text-align: center;
+ }
+ .macandpod .pod a{
+    text-align: center;
+     text-decoration: none;
+    color: #0367cc;
+    font-size: 18px; 
+    font-weight: 400;  
+    justify-content: center;
+ }
+ .macandpod .pod a:hover{
+    text-decoration: underline;
+}
+.airpodandwatch .airpod{
+    margin-top:  20px;
+    margin-left: 10px;
+    float: left;
+    width: 49%;
+   background-color: #ebebed;
+}
+.airpodandwatch .airpod h2{ 
+     font-size: 40px;
+    font-weight: 500;
+     text-align: center;
+    }
+.airpodandwatch .airpod  h3{  
+    text-align: center;
+ font-weight: 400;
+ font-size: 20px;
+    }
+    .airpodandwatch .airpod a{
+        text-align: center;
+         text-decoration: none;
+        color: #0367cc;
+        font-size: 18px; 
+        font-weight: 400;  
+        justify-content: center;
+     }
+     .airpodandwatch .airpod  a:hover{
+        text-decoration: underline;
+    }
+    .airpodandwatch .airpod .anchor{
+        text-align: center;
+    }
+
+
+.airpodandwatch .watch{
+    margin-top:  20px;
+    margin-left: 10px;
+    float: left;
+    width: 49%;
+   background-color: #f6f6f6;
+   height: 544px;
+}
+.airpodandwatch .watch h6{
+    padding-top: 20px;
+    text-align: center;
+    color: #cb6f38;
+    font-size: 13px;
+    font-weight: 500;
+}
+.airpodandwatch .watch h2{
+    font-size: 40px;
+    font-weight: 550;
+     text-align: center;
+    
+}
+.airpodandwatch .watch h5{
+    color: #cc2127;
+    text-align: center;
+    letter-spacing:2px;
+    font-size: 15px;
+}
+.airpodandwatch .watch h3{
+    text-align: center;
+    margin-top: 5px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.airpodandwatch .watch a{
+    margin-top: 8px;
+text-align: center;
+text-decoration: none;
+color: #0367cc;
+font-size: 18px; 
+font-weight: 400;  
+justify-content: center;
+}
+.airpodandwatch .watch  a:hover{
+    text-decoration: underline;
+}
